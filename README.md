@@ -1,4 +1,3 @@
-# turning-debian-into-kali
 Dependences 
 
 Wget
