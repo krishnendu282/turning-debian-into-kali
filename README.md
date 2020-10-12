@@ -21,7 +21,7 @@ wget https://raw.githubusercontent.com/krishnendu282/turning-debian-into-kali/ma
 
 Step3:
 
-chmod +x kali-converter.sh
+chmod +x Kali-converter.sh
 
 Step4:
 
