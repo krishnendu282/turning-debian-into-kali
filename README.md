@@ -25,7 +25,7 @@ chmod +x Kali-converter.sh
 
 Step4:
 
-./kali-converter.sh
+./Kali-converter.sh
 
 Step5:
 
