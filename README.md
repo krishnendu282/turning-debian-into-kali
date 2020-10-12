@@ -2,11 +2,11 @@
 
 Step1:
 
-sudo apt install curl -y
+sudo apt install wget -y
 
 Step2:
 
-curl https://raw.githubusercontent.com/krishnendu282/turning-debian-into-kali/main/Kali-converter.sh
+wget https://raw.githubusercontent.com/krishnendu282/turning-debian-into-kali/main/Kali-converter.sh
 
 Step3:
 
