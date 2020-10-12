@@ -16,7 +16,3 @@ Step4:
 
 ./Kali-converter.sh
 
-Step5:
-
-Important: please close down the terminal emulator after logging as root is the worst mistake a Linux user can make.
-Just open up another one if needed.
