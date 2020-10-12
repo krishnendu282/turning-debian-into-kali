@@ -1,8 +1,8 @@
-Dependences 
+# Dependences 
 
 Wget
 
-Just run the following commands:
+Just run the following commands. note:
 As a sudo user, just remember to type the user password when asked:
 
 sudo apt install wget -y
