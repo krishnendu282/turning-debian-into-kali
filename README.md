@@ -8,7 +8,7 @@ Remember to type the root password when asked:
 
 Step2:
 
-wget https://raw.githubusercontent.com/krishnendu282/turning-debian-into-kali/main/Kali-converter.sh
+curl https://raw.githubusercontent.com/krishnendu282/turning-debian-into-kali/main/Kali-converter.sh
 
 Step3:
 
