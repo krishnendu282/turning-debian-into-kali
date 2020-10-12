@@ -1,15 +1,4 @@
-# Dependences 
-
-Wget
-
-Gnugpg2
-
-Just run the following commands. note:
-As a sudo user, just remember to type the user password when asked:
-
-sudo apt install wget gnupg2 -y
-
-# Main process
+# Main steps
 
 Step1:
 
