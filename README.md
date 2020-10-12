@@ -2,9 +2,7 @@
 
 Step1:
 
-Sudo su
-
-Remember to type the root password when asked:
+sudo apt install curl -y
 
 Step2:
 
