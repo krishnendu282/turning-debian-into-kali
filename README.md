@@ -8,6 +8,6 @@ Note: run the following commands as root.
 
 Step2:
 
-curl https://raw.githubusercontent.com/krishnendu282/turning-debian-into-kali/main/Kali-converter.sh | bash
+sudo curl https://raw.githubusercontent.com/krishnendu282/turning-debian-into-kali/main/Kali-converter.sh | bash
 
 
